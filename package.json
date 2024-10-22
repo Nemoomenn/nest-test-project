@@ -23,7 +23,7 @@
   "dependencies": {
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^7.5.5",
-    "@nestjs/platform-express": "^7.5.5",
+    "@nestjs/platform-express": "^10.4.5",
     "@prisma/client": "3.13.0-dev.29",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
